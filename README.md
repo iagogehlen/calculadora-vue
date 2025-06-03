@@ -25,3 +25,9 @@ Este é um projeto de calculadora básica desenvolvida com **Vue.js**, **HTML**,
    ```bash
     cd calculadora-vue
 3. Abra o arquivo index.html em qualquer navegador.
+
+## 📸 Captura de Tela
+![calc](https://github.com/user-attachments/assets/72dd1c8d-b113-42bc-9cfb-1d81de363ae8)
+
+
+ 
